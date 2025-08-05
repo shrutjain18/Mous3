@@ -60,6 +60,6 @@ Mous3 is a custom-built 3D space mouse designed for intuitive multi-axis navigat
 
 ### 👥 Team Members
 
-- Shrut Jain  
 - Binit Poddar  
+- Shrut Jain 
 - Anubhav Anand
